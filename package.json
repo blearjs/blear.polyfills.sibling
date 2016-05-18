@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.sibling",
-  "version": "1.0.0",
-  "description": "blear.polyfills.sibling description",
+  "version": "1.0.1",
+  "description": "sibling polyfills to IE8",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
@@ -11,6 +11,9 @@
   },
   "main": "src/index.js",
   "keywords": [
+    "blear",
+    "polyfills",
+    "sibling",
     "cloudcome",
     "ydr.me"
   ],
