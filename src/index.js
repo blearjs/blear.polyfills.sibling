@@ -36,7 +36,7 @@ if (typeof CLASSICAL !== 'undefined' && CLASSICAL === true) {
     exports.prevElement = function (el) {
         return el.previousElementSibling;
     };
-    exports.nextElemen = function (el) {
+    exports.nextElement = function (el) {
         return el.nextElementSibling;
     };
     exports.firstElementChild = function (el) {
