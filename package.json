@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.sibling",
-  "version": "1.0.2",
-  "description": "sibling polyfills to IE8",
+  "version": "1.0.3",
+  "description": "模块废弃，移入 Blear.polyfills.selector",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
